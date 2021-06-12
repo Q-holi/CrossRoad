@@ -4,6 +4,7 @@ Title :
 _CrossRoad_    
 Game Genre : Deck Building (Single Play Game Client)   
 Development Personnel : 3    
+Load Scenes : 김정욱
 Source Coding : 윤승원  
 Picture Source : 이강민  
   
@@ -15,7 +16,12 @@ _Development Environment_
 5. DoTween
       
 _Techniques_  
-
+1. Text Mash Pro
+2. Camera Shake
+3. Sorting Layer
+4. Canvas UI
+5. DoTween
+etc....  
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Character* [Producers : 이강민]  
