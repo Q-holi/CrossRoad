@@ -17,10 +17,10 @@ Development Environment
 
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
-*Character*[Producers : 이강민]  
+*Character* [Producers : 이강민]  
 ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)
 ![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)  
-*Battle Screen*  [Producers : 윤승원]  
+*Battle Screen* [Producers : 윤승원]  
 ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
 [MyCards Handle Souce]
 ```C#
@@ -37,9 +37,9 @@ void CardAlignment(bool isMine){
         }
     }
 ```  
-*Ending Screen*  [Producers : 윤승원]  
+*Ending Screen* [Producers : 윤승원]  
 ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)  
-[Card Prefabs Producers : 윤승원]  
+*Card Prefabs* [Producers : 윤승원]  
 ![CardInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/CardInfo.png)  
 ```C#
 [System.Serializable]
