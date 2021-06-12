@@ -16,7 +16,7 @@ _Development Environment_
 5. DoTween
   
 _Screen_|_Launch Screen_|_Techniques_ 
----|:---:|---:
+:---:|:---:|:---:
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
