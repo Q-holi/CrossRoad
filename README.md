@@ -25,7 +25,7 @@ _Screen_|_Picture Source_|_Techniques_
 [Producers : 윤승원]  
 _Screen_|_Launch Screen_|_Techniques_ 
 :---:|:---:|:---:
-*Enemy Info* | ![BossInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/BossInfo.gif)|Load Scenes, Canvas[UI,Text,Button]<br>Camera Fade Effect
+*Enemy Info* | ![BossInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/BossInfo.gif)|1. Load Scenes<br>2. Canvas[UI,Text,Button]<br>3. Camera Fade Effect
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
