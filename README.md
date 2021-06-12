@@ -1,4 +1,4 @@
-# CrossRoad
+# Single Play Game Client
 
 Title : 
 _CrossRoad_    
