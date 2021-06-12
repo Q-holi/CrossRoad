@@ -18,7 +18,7 @@ MonoBehaviour:
     cost: 3
     sprite: {fileID: 21300000, guid: 99d463fb5d00a0a4b80c840daa11aa6a, type: 3}
     option: 1
-    percent: 11
+    percent: 6
   - name: "\uC21C\uAC04\uBE59\uACB0"
     attack: 3
     cost: 1
@@ -79,3 +79,9 @@ MonoBehaviour:
     sprite: {fileID: 21300000, guid: 121fb4c76152ede43a9f6021ff0f0c5d, type: 3}
     option: 1
     percent: 11
+  - name: "\uBD88\uAE38"
+    attack: 9
+    cost: 3
+    sprite: {fileID: 21300000, guid: 154c939c1b92bd744a722892757b9f9b, type: 3}
+    option: 1
+    percent: 5
