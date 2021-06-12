@@ -13,7 +13,7 @@ Development Environment
       
 
 *Collection of cards*  
-![CardCollection](./img/Collection of cards.png)  
+![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 
 
 
