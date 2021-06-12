@@ -7,13 +7,14 @@ Development Personnel : 3
 Source Coding : 윤승원  
 Picture Source : 이강민  
   
-Development Environment  
+_Development Environment_  
 1. Unity Engine  
 2. Unity 2020.2.1f1 License  
 3. Visual Studio 2019
 4. FireAlpaca 2.4.3ver 
 5. DoTween
       
+_Techniques_  
 
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
@@ -62,3 +63,4 @@ References
 Map : <https://www.youtube.com/watch?v=P9ogBkLWmPQ&ab_channel=GamedevJourney>  
 Battle Screen : <https://www.youtube.com/channel/UCqzWomWZKZUKOdT0sQdWFPQ>  
 Chat Panel : <https://www.youtube.com/user/GoldmetalYT>  
+Camera Fade Effect : <https://www.youtube.com/user/Brackeys>
