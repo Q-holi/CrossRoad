@@ -25,6 +25,7 @@ _Screen_|_Picture Source_|_Techniques_
 [Producers : 윤승원]  
 _Screen_|_Launch Screen_|_Techniques_ 
 :---:|:---:|:---:
+*Enemy Info* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/BossInfo.gif)|
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
