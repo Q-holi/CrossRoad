@@ -21,14 +21,6 @@ _Screen_|_Launch Screen_|_Techniques_
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 `absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 `fixed` | **브라우저 창**을 기준으로 배치 |  
-_Techniques_  
-1. Text Mash Pro
-2. Camera Shake
-3. Sorting Layer
-4. Canvas UI
-5. DoTween
-6. etc....  
-  
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Character* [Producers : 이강민]  
@@ -49,8 +41,6 @@ void CardAlignment(bool isMine){
         }
     }
 ```  
-
-
 *Card Prefabs* [Producers : 윤승원]  
 ![CardInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/CardInfo.png)  
 ```C#
