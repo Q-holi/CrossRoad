@@ -21,12 +21,15 @@ _Screen_|_Launch Screen_|_Techniques_
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
 *AliveBoss* | ![AliveBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/AliveBoss.gif)|  
-  
-*Collection of cards* [Producers : 이강민]  
-![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
-*Character* [Producers : 이강민]  
-![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)
-![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)   
+
+
+_Screen_|_Picture Source_|_Techniques_ 
+:---:|:---:|:---:
+*TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
+*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection of cards.png)|
+
+
+   
 [MyCards Handle Souce]
 ```C#
 void CardAlignment(bool isMine){
