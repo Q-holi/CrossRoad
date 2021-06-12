@@ -15,7 +15,21 @@ Development Environment
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Battle Screen*  
-![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
+![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)
+```C#
+void CardAlignment(bool isMine){
+        List<PRS> originCardPRSs = new List<PRS>();
+        if (isMine == true){
+            originCardPRSs = RoundAlignment(myCardLeft, myCardRight, myCards.Count, 0.5f, Vector3.one * 1.9f);
+            var targetCards = myCards;
+            for (int i = 0; i < targetCards.Count; i++){
+                var targetCard = targetCards[i];
+                targetCard.originPRS = originCardPRSs[i];
+                targetCard.MoveTransform(targetCard.originPRS, true, 0.7f);
+            }
+        }
+    }
+```
 
   
 References  
