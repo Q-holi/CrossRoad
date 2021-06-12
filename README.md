@@ -17,8 +17,8 @@ _Development Environment_
   
 값 | 의미 | 기본값
 ---|:---:|---:
-`static` | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)| `static`
-`relative` | 요소 **자신**을 기준으로 배치 |
+*Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
+*Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 `absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 `fixed` | **브라우저 창**을 기준으로 배치 |  
 _Techniques_  
@@ -33,8 +33,7 @@ _Techniques_
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Character* [Producers : 이강민]  
 ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)
-![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)  
-*Battle Screen* [Producers : 윤승원]  
+![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)   
 [MyCards Handle Souce]
 ```C#
 void CardAlignment(bool isMine){
@@ -50,8 +49,8 @@ void CardAlignment(bool isMine){
         }
     }
 ```  
-*Ending Screen* [Producers : 윤승원]  
-![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)  
+
+
 *Card Prefabs* [Producers : 윤승원]  
 ![CardInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/CardInfo.png)  
 ```C#
