@@ -20,8 +20,9 @@ _Techniques_
 2. Camera Shake
 3. Sorting Layer
 4. Canvas UI
-5. DoTween
+5. DoTween  
 etc....  
+  
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Character* [Producers : 이강민]  
