@@ -16,7 +16,7 @@ Development Environment
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Battle Screen*  
 ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
-[MyCards Handle]
+[MyCards Handle Souce]
 ```C#
 void CardAlignment(bool isMine){
         List<PRS> originCardPRSs = new List<PRS>();
