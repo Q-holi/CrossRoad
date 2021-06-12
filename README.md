@@ -10,6 +10,7 @@ Development Environment
 2. Unity 2020.2.1f1 License  
 3. Visual Studio 2019
 4. FireAlpaca 2.4.3ver 
+5. DoTween
       
 
 *Collection of cards* [Producers : 이강민]  
