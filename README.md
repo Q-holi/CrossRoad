@@ -27,9 +27,8 @@ _Screen_|_Picture Source_|_Techniques_
 :---:|:---:|:---:
 *TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
 *Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)|
-
-
-   
+*Character* | ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)|
+  
 [MyCards Handle Souce]
 ```C#
 void CardAlignment(bool isMine){
