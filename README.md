@@ -39,6 +39,7 @@ void CardAlignment(bool isMine){
 ```  
 *Ending Screen*  [Producers : 윤승원]  
 ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)  
+[Card Prefabs]
 ![CardInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/CardInfo.png)  
 ```C#
 [System.Serializable]
