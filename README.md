@@ -19,8 +19,8 @@ _Screen_|_Launch Screen_|_Techniques_
 ---|:---:|---:
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
-*Ending Screen* | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
-*Ending Screen* | **브라우저 창**을 기준으로 배치 |  
+*KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
+*AliveBoss* | ![AliveBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/AliveBoss.gif)|  
   
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
