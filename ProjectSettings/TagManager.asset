@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MyCardArea
+  - 
+  - Background
+  - Title
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2333704439
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Title
+    uniqueID: 4261193719
+    locked: 0
+  - name: Entity
+    uniqueID: 2643397185
+    locked: 0
+  - name: Card
+    uniqueID: 929641651
+    locked: 0
+  - name: UI
+    uniqueID: 1098939333
+    locked: 0
