@@ -15,7 +15,7 @@ Development Environment
 *Collection of cards* [Producers : 이강민]  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Combat Screen*  
-<img src="https://github.com/Q-holi/CrossRoad/blob/master/img/Combat%20Screen.PNG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
 
   
 References  
