@@ -4,7 +4,7 @@ Title :
 _CrossRoad_    
 Game Genre : Deck Building (Single Play Game Client)   
 Development Personnel : 3    
-Load Scenes : 김정욱
+Load Scenes : 김정욱  
 Source Coding : 윤승원  
 Picture Source : 이강민  
   
