@@ -4,9 +4,9 @@ Title :
 _CrossRoad_    
 Game Genre : Deck Building (Single Play Game Client)   
 Development Personnel : 3    
-
 Source Coding : 윤승원  
 Picture Sources : 이강민  
+  
 Development Environment  
 1. Unity Engine  
 2. Unity 2020.2.1f1 License  
