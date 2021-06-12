@@ -22,8 +22,6 @@ Development Environment
 ![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)  
 *Battle Screen*  [Producers : 윤승원]  
 ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
-*Ending Screen*  [Producers : 윤승원]  
-![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)  
 [MyCards Handle Souce]
 ```C#
 void CardAlignment(bool isMine){
@@ -38,7 +36,25 @@ void CardAlignment(bool isMine){
             }
         }
     }
-```
+```  
+*Ending Screen*  [Producers : 윤승원]  
+![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)  
+![CardInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/CardInfo.png)  
+```C#
+[System.Serializable]
+public class Item{
+    public string name;//card name
+    public int attack;//card attack damage
+    public int cost;//card cost
+    public Sprite sprite;//card img
+    public int option; //0 == Def , 1 == Attack , 3 == Draw
+    public float percent;//card drop%
+}
+[CreateAssetMenu(fileName = "ItemSO", menuName = "Scriptable Object/ItemSO")]
+public class ItemSO : ScriptableObject{
+    public Item[] items;
+}
+```  
 
   
 References  
