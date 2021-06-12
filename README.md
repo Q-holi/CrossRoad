@@ -12,7 +12,7 @@ Development Environment
 4. FireAlpaca 2.4.3ver 
       
 
-*Collection of cards*
+*Collection of cards*  
 ![CardCollection](./img/Collection of cards.png)  
 
 
