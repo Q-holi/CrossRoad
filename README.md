@@ -14,6 +14,7 @@ Development Environment
 
 *Collection of cards*  
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
+Producers : 이강민  
 
 
 
