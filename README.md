@@ -15,7 +15,7 @@ _Development Environment_
 4. FireAlpaca 2.4.3ver 
 5. DoTween
   
-값 | 의미 | 기본값
+_Screen_|_Launch Screen_|_Techniques_ 
 ---|:---:|---:
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
