@@ -22,6 +22,8 @@ Development Environment
 ![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)  
 *Battle Screen*  [Producers : 윤승원]  
 ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
+*Ending Screen*  [Producers : 윤승원]  
+![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)  
 [MyCards Handle Souce]
 ```C#
 void CardAlignment(bool isMine){
