@@ -27,7 +27,7 @@ _Screen_|_Launch Screen_|_Techniques_
 :---:|:---:|:---:
 *Enemy Info* | ![BossInfo](https://github.com/Q-holi/CrossRoad/blob/master/img/BossInfo.gif)|1. Load Scenes<br>2. Canvas[UI,Text,Button]<br>3. Camera Fade Effect
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|1. CameraShake<br>2. DoTwenn<br>3. Sorting Layer Card Prefabs<br>4. Boss Random Pattern<br>5. Card Draw, Attack, Defense<br>6. ManaCost Deduct etc.....
-*Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|1. Create Selection<br>2. Output Chat<br>3. Coroutine IEnumerator
+*Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|1. Create Selection<br>2. Output Chat<br>3. Coroutine IEnumerator<br>4. Cheat Mode
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
 *AliveBoss* | ![AliveBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/AliveBoss.gif)|  
   
