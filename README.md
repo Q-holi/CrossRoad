@@ -14,7 +14,9 @@ _Development Environment_
 3. Visual Studio 2019
 4. FireAlpaca 2.4.3ver 
 5. DoTween
+
   
+[Producers : 윤승원]  
 _Screen_|_Launch Screen_|_Techniques_ 
 :---:|:---:|:---:
 *Battle Screen* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)|
@@ -22,7 +24,7 @@ _Screen_|_Launch Screen_|_Techniques_
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
 *AliveBoss* | ![AliveBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/AliveBoss.gif)|  
 
-
+[Producers : 이강민]  
 _Screen_|_Picture Source_|_Techniques_ 
 :---:|:---:|:---:
 *TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
