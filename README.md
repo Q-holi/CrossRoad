@@ -14,8 +14,14 @@ _Development Environment_
 3. Visual Studio 2019
 4. FireAlpaca 2.4.3ver 
 5. DoTween
-
   
+[Producers : 이강민]  
+_Screen_|_Picture Source_|_Techniques_ 
+:---:|:---:|:---:
+*TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
+*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)|
+*Character* | ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)|
+    
 [Producers : 윤승원]  
 _Screen_|_Launch Screen_|_Techniques_ 
 :---:|:---:|:---:
@@ -23,13 +29,6 @@ _Screen_|_Launch Screen_|_Techniques_
 *Ending Screen* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/ChooseEnding.gif)|
 *KillBoss* | ![KillBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/KillBoss.gif)|
 *AliveBoss* | ![AliveBoss](https://github.com/Q-holi/CrossRoad/blob/master/img/AliveBoss.gif)|  
-
-[Producers : 이강민]  
-_Screen_|_Picture Source_|_Techniques_ 
-:---:|:---:|:---:
-*TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
-*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)|
-*Character* | ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)|
   
 [MyCards Handle Souce]
 ```C#
