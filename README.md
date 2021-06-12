@@ -26,7 +26,7 @@ _Screen_|_Launch Screen_|_Techniques_
 _Screen_|_Picture Source_|_Techniques_ 
 :---:|:---:|:---:
 *TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
-*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection of cards.png)|
+*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)|
 
 
    
