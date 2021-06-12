@@ -163,17 +163,12 @@ public class CardManager : MonoBehaviour
         }
     }
 
-    void CardAlignment(bool isMine)
-    {
+    void CardAlignment(bool isMine){
         List<PRS> originCardPRSs = new List<PRS>();
-        if (isMine)
+        if (isMine == true){
             originCardPRSs = RoundAlignment(myCardLeft, myCardRight, myCards.Count, 0.5f, Vector3.one * 1.9f);
-
-        if (isMine == true)
-        {
             var targetCards = myCards;
-            for (int i = 0; i < targetCards.Count; i++)
-            {
+            for (int i = 0; i < targetCards.Count; i++){
                 var targetCard = targetCards[i];
                 targetCard.originPRS = originCardPRSs[i];
                 targetCard.MoveTransform(targetCard.originPRS, true, 0.7f);
