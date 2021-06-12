@@ -19,7 +19,7 @@ Development Environment
 ![CardCollection](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)  
 *Character*[Producers : 이강민]  
 ![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)
-![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)  
+![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)  
 *Battle Screen*  [Producers : 윤승원]  
 ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/BattleStart.gif)  
 [MyCards Handle Souce]
