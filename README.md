@@ -7,6 +7,10 @@ Development Personnel : 3
 Load Scenes : 김정욱  
 Source Coding : 윤승원  
 Picture Source : 이강민  
+
+_Project Overview_
+1. Add The Game Progresses Of Slay The Spire -> very easy way
+2. Additional Story -> Select Ending (2 Choices)
   
 _Development Environment_  
 1. Unity Engine  
