@@ -22,9 +22,9 @@ _Development Environment_
 [Producers : 이강민]  
 _Screen_|_Picture Source_|_Techniques_ 
 :---:|:---:|:---:
-*TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)|
-*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)|
-*Character* | ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)|
+*TotalScene* | ![Combat Screen](https://github.com/Q-holi/CrossRoad/blob/master/img/TotalScene.png)| Sense Of Immersion
+*Collection of cards* | ![ChooseEnding](https://github.com/Q-holi/CrossRoad/blob/master/img/Collection%20of%20cards.png)|Easy to understand UI
+*Character* | ![Player](https://github.com/Q-holi/CrossRoad/blob/master/img/Player.png)![Boss](https://github.com/Q-holi/CrossRoad/blob/master/img/BOSS.png)|Neat Design
     
 [Producers : 윤승원]  
 _Screen_|_Launch Screen_|_Techniques_ 
